@@ -29,3 +29,27 @@ body {
 .logo-img-wrapper img {
     margin: 21.23px 0px 0px 119.68px;
 }
+.nav {
+    width: 60.60%;
+    margin-top: 42.92px;
+    
+}
+.nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+.nav ul li {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: right;
+
+}
+.nav ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
