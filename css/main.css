@@ -25,6 +25,8 @@ body {
     width: 100%;
     height: auto;
     display: flex;
+    padding-right: 121.16px;
+    justify-content: space-between; 
 }
 .logo-img-wrapper img {
     margin: 21.23px 0px 0px 119.68px;
@@ -54,6 +56,10 @@ body {
     text-decoration: none;
 }
 /* header-language-icon */
+.header-language-icon {
+    display: flex;
+    gap: 9px;
+}
 .language-container {
     display: flex;
     
@@ -66,7 +72,7 @@ body {
     line-height: 16px;
     letter-spacing: 0.1em;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 24px;
     background: transparent;
     /* color: white;
     background-color: black; */
@@ -76,4 +82,17 @@ body {
     opacity: 0.5;
     color: rgba(255, 255, 255, 1);
     margin-top: 39px;
+}
+.icon-container {
+    display: flex;
+    margin-top: 38px;
+    gap: 10px;
+}
+.icon-container img {
+    height: 30.00383758544922px;
+    width: 30.041748046875px;
+}
+.header-language-icon-img {
+    height: 30.00000000000003px;
+    margin-top: 38px;
 }
