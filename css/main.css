@@ -138,7 +138,6 @@ body {
     border: none;
     margin-left: 338px;
     margin-bottom: 363.92px;
-    
 }
 .btn-1 {
     font-family: Open Sans;
@@ -155,5 +154,22 @@ body {
     line-height: 22px;
     letter-spacing: 0px;
     text-align: center;
-
+}
+.main-story {
+    height: 32.78520965576172px;
+    /* width: 68.04352569580078px; */
+    margin-left: 601px;
+    margin-bottom: 52.73px;
+}
+.main-story p {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: justified;
+    color: #FFFFFF;
+}
+.main-story img {
+    margin-left: 20px;
 }
