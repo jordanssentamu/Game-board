@@ -19,3 +19,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+/* header */
+.header-section {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.logo-img-wrapper img {
+    margin: 21.23px 0px 0px 119.68px;
+}
