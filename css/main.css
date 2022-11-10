@@ -105,7 +105,7 @@ body {
     padding-right: 150.77px;
 }
 .main-cost h1 {
-    width: 97.3%;
+    /* width: 97.3%; */
     height: 96px;
     font-family: Bebas Neue;
     font-size: 80px;
@@ -116,4 +116,16 @@ body {
     color: #FFFFFF;
     justify-content: center;
     align-items: center;
+}
+.main-cost h3 {
+    margin-left: 272.29px;
+    width: 50.5%;
+    height: 27.672607421875px;
+    font-family: Bebas Neue;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    margin-bottom: 28.55px;
 }
