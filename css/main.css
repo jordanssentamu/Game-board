@@ -19,6 +19,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 /* header */
 .header-section {
@@ -27,6 +28,7 @@ body {
     display: flex;
     padding-right: 121.16px;
     justify-content: space-between; 
+    margin-bottom: 168.38px;
 }
 .logo-img-wrapper img {
     margin: 21.23px 0px 0px 119.68px;
@@ -95,4 +97,23 @@ body {
 .header-language-icon-img {
     height: 30.00000000000003px;
     margin-top: 38px;
+}
+/* main-cost */
+.main-cost {
+    width: 100%;
+    padding-left: 132.72px;
+    padding-right: 150.77px;
+}
+.main-cost h1 {
+    width: 97.3%;
+    height: 96px;
+    font-family: Bebas Neue;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 96px;
+    letter-spacing: 3px;
+   display: flex;
+    color: #FFFFFF;
+    justify-content: center;
+    align-items: center;
 }
