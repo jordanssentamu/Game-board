@@ -53,3 +53,17 @@ body {
     color: #FFFFFF;
     text-decoration: none;
 }
+/* header-language-icon */
+.language-container select {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 700;
+    border: none;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    margin-top: 43px;
+    background: transparent;
+    color: white;
+    background-color: black;
+} 
