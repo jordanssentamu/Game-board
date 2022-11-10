@@ -118,8 +118,8 @@ body {
     align-items: center;
 }
 .main-cost h3 {
-    margin-left: 272.29px;
-    width: 50.5%;
+    margin-left: 187.29px;
+    /* width: 50.5%; */
     height: 27.672607421875px;
     font-family: Bebas Neue;
     font-size: 24px;
@@ -128,4 +128,32 @@ body {
     letter-spacing: 2px;
     color: #FFFFFF;
     margin-bottom: 28.55px;
+    text-transform: uppercase;
+}
+.main-btn {
+    height: 59.999969482421875px;
+    width: 260.3616943359375px;
+    background: linear-gradient(194.68deg, #FFB548 11.27%, #F3AF34 90.4%);
+    border-radius: 4px;
+    border: none;
+    margin-left: 338px;
+    margin-bottom: 363.92px;
+    
+}
+.btn-1 {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.btn-2 {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+
 }
